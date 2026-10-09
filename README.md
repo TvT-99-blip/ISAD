@@ -72,7 +72,7 @@ git diff --check
 | 郭晓晗 | [12345asd177](https://github.com/12345asd177) |
 | 丁燕楠 | — |
 | 江翊宁 | [fall12138](https://github.com/fall12138) |
-| 唐嘉卓 | — |
+| 唐嘉卓 | [TvT-99-blip](https://github.com/TvT-99-blip) |
 | 周振豪 | — |
 | 蔡可欣 | [0824-maker](https://github.com/0824-maker) |
 | 夏薇 | [tangshi1999](https://github.com/tangshi1999) |
